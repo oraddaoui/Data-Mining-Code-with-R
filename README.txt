@@ -1,5 +1,5 @@
 Data Background:
-Data used in the code was collected from multiple drivers in a driving simulator lab environment (part of graduate research project). Each driver drove the same scenario twice: once with the advance in-vehicle Connected Vehicle Warnings being displayed (On) while driving and another time with no warnings being displayed (Off). Hence, there are two groups of drivers: drivers under connectivity conditions = “On” and drivers with connectivity conditions = “off”. 
+Data used in the code was collected from multiple drivers in a driving simulator lab environment (part of my graduate research project). Each driver drove the same scenario twice: once with the advance in-vehicle Connected Vehicle Warnings being displayed (On) while driving and another time with no warnings being displayed (Off). Hence, there are two groups of drivers: drivers under connectivity conditions = “On” and drivers with connectivity conditions = “off”. 
 Data used in this code example contains four variables:
 •	y1 = number of lane departures in the work zone (performance measure for distraction) 
 •	y2 = percent time spent with wheels outside lane markings (performance measure for distraction)
