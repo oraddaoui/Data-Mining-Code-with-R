@@ -1,5 +1,5 @@
 ### Data ### 
-dat = read.csv("C://5300//HWK3DATA.CSV", header=F)
+dat = read.csv("C://DATA.CSV", header=F)
 n = nrow(dat);
 Y = as.matrix(dat[,1:4]); P = ncol(Y)
 G = dat[,5] # grouping variable #
